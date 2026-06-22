@@ -5,10 +5,13 @@ each teamate member implements one or more functions
 ---
 
 ## functions 
+double a = double.Parce(Console.ReadLine());
+double b = double.Parce(Console.ReadLine());
 ### ADD
 ```
 function add(a, b):
 // TODO: implement
+Console.Write(a+b);
 ```
 
 ### SUBTRACT
