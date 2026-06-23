@@ -9,14 +9,15 @@ each teamate member implements one or more functions
 ### ADD
 ```
 function add(a, b):
-
-
+// TODO: implement
+Console.Write(a+b)
+.
 ```
 
 ### SUBTRACT
 ```
 function subtract(a, b):
-
+return a-b;
 ```
 
 ---
