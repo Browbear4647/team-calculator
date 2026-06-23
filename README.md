@@ -16,7 +16,7 @@ function add(a, b):
 ### SUBTRACT
 ```
 function subtract(a, b):
-//TODO: implement
+return a-b;
 ```
 
 ---
