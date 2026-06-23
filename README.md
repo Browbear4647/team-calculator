@@ -9,14 +9,14 @@ each teamate member implements one or more functions
 ### ADD
 ```
 function add(a, b):
-// TODO: implement
+
 
 ```
 
 ### SUBTRACT
 ```
 function subtract(a, b):
-//TODO: implement
+
 ```
 
 ---
@@ -24,6 +24,5 @@ function subtract(a, b):
 ### DIVIDE
 ```
 function divide(a, b):
-//TODO: implement
 Console.Write(a/b)
 ```
