@@ -10,7 +10,8 @@ each teamate member implements one or more functions
 ```
 function add(a, b):
 // TODO: implement
-2
+Console.Write(a+b)
+.
 ```
 
 ### SUBTRACT
