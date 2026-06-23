@@ -21,3 +21,9 @@ function subtract(a, b):
 
 ---
 <!-- other team members: add your function below this line -->
+### DIVIDE
+```
+function divide(a, b):
+//TODO: implement
+Console.Write(a/b)
+```
